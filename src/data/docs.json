@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Getting Started Guide",
+    "content": "Welcome to our platform! This guide will help you set up your account and start using our services. First, create an account by clicking the sign-up button. Then, verify your email address and complete your profile.",
+    "category": "Tutorial"
+  },
+  {
+    "title": "Shipping Policy",
+    "content": "We offer free shipping on orders over $50. Standard shipping takes 3-5 business days. Express shipping is available for an additional fee and delivers in 1-2 business days. International shipping is available to select countries.",
+    "category": "Policy"
+  },
+  {
+    "title": "Return Policy",
+    "content": "We accept returns within 30 days of purchase. Items must be unused and in original packaging. Refunds are processed within 5-7 business days. Some items may not be eligible for return due to hygiene reasons.",
+    "category": "Policy"
+  },
+  {
+    "title": "Payment Methods",
+    "content": "We accept all major credit cards including Visa, Mastercard, American Express, and Discover. We also accept PayPal, Apple Pay, and Google Pay. All transactions are encrypted and secure.",
+    "category": "FAQ"
+  },
+  {
+    "title": "Account Security",
+    "content": "Keep your account secure by using a strong password with a mix of letters, numbers, and symbols. Enable two-factor authentication for added security. Never share your password with anyone.",
+    "category": "Tutorial"
+  },
+  {
+    "title": "Product Care Instructions",
+    "content": "To maintain your products, follow the care instructions on the label. For electronics, keep away from water and extreme temperatures. For apparel, wash according to fabric type. Store items in a cool, dry place.",
+    "category": "Guide"
+  },
+  {
+    "title": "Warranty Information",
+    "content": "All products come with a manufacturer's warranty. Electronics have a 1-year warranty covering defects. Furniture has a 2-year warranty. Contact customer service to initiate a warranty claim.",
+    "category": "Policy"
+  },
+  {
+    "title": "Customer Support",
+    "content": "Our support team is available 24/7 via chat, email, or phone. Response times are typically under 2 hours. For urgent issues, use the priority support option. Check our FAQ section for quick answers.",
+    "category": "FAQ"
+  },
+  {
+    "title": "Loyalty Program",
+    "content": "Join our loyalty program to earn points on every purchase. Points can be redeemed for discounts on future orders. Members get exclusive access to sales and new product launches. Sign up is free and instant.",
+    "category": "Guide"
+  },
+  {
+    "title": "Size Guide",
+    "content": "Use our size guide to find the perfect fit. Measure yourself according to the instructions provided. If between sizes, we recommend sizing up. Check product-specific size charts for accuracy.",
+    "category": "Guide"
+  }
+]

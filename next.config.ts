@@ -1,10 +1,16 @@
-import { dirname } from "node:path";
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  turbopack: {
-    root: dirname(__filename),
+module.exports = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'example.com',
+        port: '',
+        pathname: '/images/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'cdn.example.com',
+      },
+    ],
   },
-};
-
-export default nextConfig;
+}

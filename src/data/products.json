@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 299.99,
+    "description": "Adjustable office chair with lumbar support and breathable mesh back.",
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=400"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home",
+    "price": 24.99,
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400"
+  },
+  {
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 129.99,
+    "description": "RGB backlit mechanical keyboard with customizable keys and anti-ghosting technology.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400"
+  },
+  {
+    "name": "Yoga Mat Pro",
+    "category": "Sports",
+    "price": 39.99,
+    "description": "Extra thick yoga mat with non-slip surface and carrying strap.",
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400"
+  },
+  {
+    "name": "Smart Watch Series 5",
+    "category": "Electronics",
+    "price": 249.99,
+    "description": "Fitness tracking smartwatch with heart rate monitor and GPS.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"
+  },
+  {
+    "name": "Coffee Maker Deluxe",
+    "category": "Home",
+    "price": 89.99,
+    "description": "Programmable coffee maker with thermal carafe and auto-brew feature.",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400"
+  },
+  {
+    "name": "Running Shoes Elite",
+    "category": "Sports",
+    "price": 119.99,
+    "description": "Lightweight running shoes with responsive cushioning and breathable mesh.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+  },
+  {
+    "name": "Desk Lamp LED",
+    "category": "Home",
+    "price": 45.99,
+    "description": "Adjustable LED desk lamp with touch control and USB charging port.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400"
+  },
+  {
+    "name": "Backpack Travel Pro",
+    "category": "Accessories",
+    "price": 69.99,
+    "description": "Durable travel backpack with laptop compartment and USB charging port.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400"
+  }
+]
