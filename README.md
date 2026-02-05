@@ -22,34 +22,35 @@ A production-ready AI shopping assistant powered by Google Gemini and Algolia Se
 
 ```
 smart-ai-agent/
-├── app/                    # Next.js app router
-│   ├── layout.tsx         # Root layout
-│   ├── page.tsx           # Home page
-│   ├── globals.css        # Global styles
-│   └── api/agent/         # API endpoints
-│       └── route.ts       # Agent API handler
+├── src/
+│   ├── app/                    # Next.js app router
+│   │   ├── layout.tsx          # Root layout
+│   │   ├── page.tsx            # Home page
+│   │   ├── globals.css         # Global styles
+│   │   └── api/agent/          # API endpoints
+│   │       └── route.ts        # Agent API handler
+│   │
+│   ├── components/             # React components
+│   │   ├── AgentChat.tsx       # Main chat interface
+│   │   ├── MessageBubble.tsx   # Chat message component
+│   │   └── ProductCard.tsx     # Product display card
+│   │
+│   ├── lib/                    # Core logic
+│   │   ├── agent/              # Agent logic
+│   │   │   ├── runAgent.ts     # Main agent orchestration
+│   │   │   ├── prompts.ts      # System prompts
+│   │   │   ├── tools.ts        # Tool definitions
+│   │   │   └── memory.ts       # Conversation memory
+│   │   ├── algolia.ts          # Algolia client
+│   │   ├── gemini.ts           # Gemini client
+│   │   └── logger.ts           # Logging utility
+│   │
+│   └── data/                   # Sample data
+│       ├── products.json       # Product catalog
+│       └── docs.json           # Documentation
 │
-├── components/             # React components
-│   ├── AgentChat.tsx      # Main chat interface
-│   ├── MessageBubble.tsx  # Chat message component
-│   └── ProductCard.tsx    # Product display card
-│
-├── lib/                   # Core logic
-│   ├── agent/            # Agent logic
-│   │   ├── runAgent.ts   # Main agent orchestration
-│   │   ├── prompts.ts    # System prompts
-│   │   ├── tools.ts      # Tool definitions
-│   │   └── memory.ts     # Conversation memory
-│   ├── algolia.ts        # Algolia client
-│   ├── gemini.ts         # Gemini client
-│   └── logger.ts         # Logging utility
-│
-├── scripts/
-│   └── indexAlgolia.ts   # Data indexing script
-│
-└── data/                 # Sample data
-    ├── products.json     # Product catalog
-    └── docs.json         # Documentation
+└── scripts/
+    └── indexAlgolia.ts         # Data indexing script
 ```
 
 ## Setup Instructions

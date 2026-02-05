@@ -65,9 +65,9 @@ Open http://localhost:3000 and try these:
 
 ## Next Steps
 
-1. Customize products in `data/products.json`
-2. Add your own documentation in `data/docs.json`
-3. Modify styles in components
+1. Customize products in `src/data/products.json`
+2. Add your own documentation in `src/data/docs.json`
+3. Modify styles in `src/components/`
 4. Deploy to Vercel!
 
 Need help? Check the main README.md for detailed docs.
